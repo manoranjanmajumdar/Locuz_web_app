@@ -1,1 +1,1 @@
-# Locuz_web_app
+# Skill-webapp-with-Docker
